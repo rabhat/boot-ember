@@ -15,7 +15,7 @@ apply plugin: 'eclipse'
 apply plugin: 'spring-boot'
 
 jar {
-	baseName = 'zruti-ember-boot'
+	baseName = 'boot-ember'
 	version = '0.0.1-SNAPSHOT'
 }
 sourceCompatibility = 1.8
