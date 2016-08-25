@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rabhat/boot-ember.svg?branch=master)](https://travis-ci.org/rabhat/boot-ember)
+
 # Spring Boot and Ember starter
 
 ##Developing
