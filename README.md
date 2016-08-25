@@ -1,4 +1,4 @@
-# Spring boot and ember starter
+# Spring Boot and Ember starter
 
 ##Developing
 
